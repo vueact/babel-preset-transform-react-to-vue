@@ -2,6 +2,8 @@
 
 [![NPM version](https://img.shields.io/npm/v/babel-preset-transform-react-to-vue.svg?style=flat)](https://npmjs.com/package/babel-preset-transform-react-to-vue) [![NPM downloads](https://img.shields.io/npm/dm/babel-preset-transform-react-to-vue.svg?style=flat)](https://npmjs.com/package/babel-preset-transform-react-to-vue) [![CircleCI](https://circleci.com/gh/vueact/babel-preset-transform-react-to-vue/tree/master.svg?style=shield)](https://circleci.com/gh/vueact/babel-preset-transform-react-to-vue/tree/master)  [![donate](https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&style=flat)](https://github.com/egoist/donate)
 
+**You may use the plugin directly instead of this preset, see [babel-plugin-transform-react-to-vue](https://github.com/vueact/babel-plugin-transform-react-to-vue)**.
+
 This preset includes [babel-plugin-transform-react-to-vue](https://github.com/vueact/babel-plugin-transform-react-to-vue) and some other essential plugins for this plugin like `syntax-jsx` `syntax-object-rest-spread` `syntax-class-properties`
 
 ## Install
@@ -17,8 +19,6 @@ yarn add babel-preset-transform-react-to-vue --dev
   "presets": ["transform-react-to-vue"]
 }
 ```
-
-Note that it does not really transform `object-rest-spread` `jsx` and `class-properties`, you still need corresponding plugins for them.
 
 ## Contributing
 
