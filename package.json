@@ -1,7 +1,7 @@
 {
   "name": "babel-preset-transform-react-to-vue",
   "version": "0.0.0",
-  "description": "babel preset for all plugins to transform react code to vue code",
+  "description": "babel preset to transform react code to vue code",
   "repository": {
     "url": "egoist/babel-preset-transform-react-to-vue",
     "type": "git"
