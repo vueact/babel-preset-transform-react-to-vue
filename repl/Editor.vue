@@ -186,6 +186,7 @@ ReactDOM.render(<App />, document.getElementById('root'))
     .CodeMirror, .result {
       width: 50%;
       padding: 10px;
+      padding-right: 0;
       border-left: 1px solid #e2e2e2;
     }
   }
