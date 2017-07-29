@@ -661,9 +661,9 @@ babel-plugin-transform-object-rest-spread@^6.23.0:
     babel-plugin-syntax-object-rest-spread "^6.8.0"
     babel-runtime "^6.22.0"
 
-babel-plugin-transform-react-to-vue@^0.1.0:
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/babel-plugin-transform-react-to-vue/-/babel-plugin-transform-react-to-vue-0.1.0.tgz#7d458119462ab6f94c72e381e56346a21cd75677"
+babel-plugin-transform-react-to-vue@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/babel-plugin-transform-react-to-vue/-/babel-plugin-transform-react-to-vue-0.2.0.tgz#d6746d482d50414e634020163339f7cbe42458e4"
 
 babel-plugin-transform-regenerator@^6.22.0:
   version "6.24.1"

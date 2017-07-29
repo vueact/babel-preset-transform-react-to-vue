@@ -27,7 +27,7 @@
     "babel-plugin-syntax-class-properties": "^6.13.0",
     "babel-plugin-syntax-jsx": "^6.18.0",
     "babel-plugin-syntax-object-rest-spread": "^6.13.0",
-    "babel-plugin-transform-react-to-vue": "^0.1.0"
+    "babel-plugin-transform-react-to-vue": "^0.2.0"
   },
   "devDependencies": {
     "babel-core": "^6.25.0",
@@ -45,6 +45,8 @@
   },
   "xo": {
     "extends": "rem",
-    "ignores": ["repl/**"]
+    "ignores": [
+      "repl/**"
+    ]
   }
 }
